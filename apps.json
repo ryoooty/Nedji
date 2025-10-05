@@ -1,0 +1,16 @@
+[
+  {
+    "key": "cs2",
+    "name": "Пж зарегай 2",
+    "path": "steam://rungameid/730",
+    "is_app": "n",
+    "show_in_menu": true
+  },
+  {
+    "key": "telegram",
+    "name": "Telegram",
+    "path": "tg://",
+    "is_app": "n",
+    "show_in_menu": true
+  }
+]
